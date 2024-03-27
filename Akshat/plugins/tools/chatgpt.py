@@ -7,7 +7,7 @@ from gtts import gTTS
 
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 
